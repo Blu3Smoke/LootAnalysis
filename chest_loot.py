@@ -62,5 +62,5 @@ with open('shipwreck.json', 'w') as sf:
     json.dump(ship_total, sf)
 with open('shipwreck_food.json', 'w') as sff:
     json.dump(ship_food_total, sff)
-with open('shipwreck_food.json', 'w') as bf:
+with open('buried_treasure.json', 'w') as bf:
     json.dump(bt_total, bf)
